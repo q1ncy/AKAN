@@ -1,0 +1,14 @@
+.card{
+    display: table;
+   padding: 10px;
+    background-image: url("images/help.jpeg");
+    background-repeat: no-repeat;
+}
+.Click{
+    justify-content: center;
+}
+.TEXT{
+    justify-content: center;
+    color: crimson;
+    font-size: 24px;
+}
