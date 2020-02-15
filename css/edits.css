@@ -1,8 +1,7 @@
 .card{
     display: table;
-   padding: 10px;
-    background-image: url("images/help.jpeg");
-    background-repeat: no-repeat;
+    padding: 10px;
+    background-color: rgb(238, 233, 164) ;
 }
 .Click{
     justify-content: center;
@@ -12,3 +11,10 @@
     color: crimson;
     font-size: 24px;
 }
+img {
+    border-radius: 50%;
+}
+.link {
+    padding-left: 45%;
+}
+
