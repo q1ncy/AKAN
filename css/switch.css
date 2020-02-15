@@ -1,6 +1,7 @@
 .card{
-    background-color: rgb(235, 145, 235);
+    background-color: peru;
     padding-left: 20pt;
+    backface-visibility: visible;
 }
 h1{
     font-family: cursive;
