@@ -9,6 +9,8 @@
 >RAM of at least 4gb
 >min resolution:760x470px
 
+### https://q1ncy.github.io/AKAN/
+
 ### BDD
  **Akan Name Generator**
  As a developer,
