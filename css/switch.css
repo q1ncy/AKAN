@@ -1,7 +1,8 @@
 .card{
     background-color: peru;
     padding-left: 20pt;
-    backface-visibility: visible;
+    justify-content: space-evenly;
+    line-height: 20pt;
 }
 h1{
     font-family: cursive;
