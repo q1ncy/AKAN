@@ -10,4 +10,40 @@ function Akan(){
     }else if (MM<=0 || MM>12) {
         alert("Enter valid Month!!!")
     }
+    var MaleNames=["Kwasi","Kwadwo","kwabena","Kwaku","Yaw","Kofi","Kwame"]
+    var FemaleNames=["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"]
+
+    if (DayOfTheweek=6 && gen="Male"){
+
+        var AkanName=MaleNames.pop();
+        document.getElementById("outcome").innerHTML = "Your Akan Name is"+ AkanName;
+
+    }else if (DayOfTheweek=5 && gen="Male") {
+
+        var AkanName=MaleNames.pop()
+        document.getElementById("outcome").innerHTML = "Your Akan Name is"+ AkanName
+
+    }else if (DayOfTheweek=4 && gen="Male"){
+        
+        var AkanName=MaleNames.pop()
+        document.getElementById("outcome").innerHTML = "Your Akan Name is"+ AkanName 
+
+    }else if (DayOfTheweek=3 && gen="Male"){
+        
+        var AkanName=MaleNames.pop()
+        document.getElementById("outcome").innerHTML = "Your Akan Name is"+ AkanName
+
+    }else if (DayOfTheweek=2 && gen="Male"){
+        
+        var AkanName=MaleNames.pop()
+        document.getElementById("outcome").innerHTML = "Your Akan Name is"+ AkanName
+
+    }else if (DayOfTheweek=1 && gen="Male"){
+        
+        var AkanName=MaleNames.pop()
+        document.getElementById("outcome").innerHTML = "Your Akan Name is"+ AkanName
+
+    }else if (DayOfweek=0 && gen="Male"){
+        document.getElementById("outcome").innerHTML = "Your Akan Name is"+ AkanName
+    }
 }
