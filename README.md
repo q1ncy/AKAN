@@ -10,8 +10,17 @@
 >min resolution:760x470px
 
 ### BDD
-Behavioural Driven Development
+ **Akan Name Generator**
+ As a developer,
+ I intent fo the site to provide an appropriate Akan name to the live ware,
+ in bid to satisfy the curiosity of those in interest.
 
+**Scenario 1**:given that a user inputs his/her birth date correctly,
+through a number of integrated algorithms the system is to provide a day of 
+the week in correspondence to the run algorithm and allocate an *Akan* name which depends also on the gender of the user.
+
+**Scenario 2**:give that a user inputs an invalid date or month,the system is to
+alert the user of the invalidity of the data so as to provide a new re-entry.The tech is meant to reduce any errors that may occur during calculation.
 
 ### Technologies used
 >>The website has constituted a wide use of basic -**html** 
